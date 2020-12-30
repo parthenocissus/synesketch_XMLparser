@@ -1,0 +1,30 @@
+==============================================================
+                       Synesketsh XML Parser
+                Copyright (c) 2008  Nikola Milikic
+==============================================================
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  
+02110-1301, USA.
+===============================================================
+
+Synesketsh XML Parser uses one open source library.
+
+You can refer to the following links in order to
+download the relative source code.
+
+DOM4J Project, Copyright 2001-2005 (C) MetaStuff
+dom4j-1.6.1.jar
+http://www.dom4j.org
+dom4j-1.6.1.jar must be included in classpath of the project in 
+order to Synesketsh XML Parser library work.
